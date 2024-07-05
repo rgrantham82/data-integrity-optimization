@@ -42,22 +42,6 @@ This dataset contains a record of incidents that the Austin Police Department re
 - **Longitude**: Longitude where the incident occurred
 - **Location**: 3rd party generated spatial column
 
-## Repository Structure
-
-```
-data-integrity-project/
-├── README.md
-├── data-integrity.md
-├── data_cleaning.py
-├── data_optimization.py
-├── sql_scripts/
-│   ├── create_tables.sql
-│   ├── insert_data.sql
-│   ├── data_quality_checks.sql
-├── images/
-│   └── project_thumbnail.png
-```
-
 ## Python Scripts
 
 ### Data Cleaning
